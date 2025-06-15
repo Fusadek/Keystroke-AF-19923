@@ -1,0 +1,9 @@
+C:\Users\adek1\Desktop\lab 1 dobosz\Keystroke\Keystroke\Keystroke\obj\Debug\Keystroke.csproj.AssemblyReference.cache
+C:\Users\adek1\Desktop\lab 1 dobosz\Keystroke\Keystroke\Keystroke\obj\Debug\Keystroke.csproj.CoreCompileInputs.cache
+C:\Users\adek1\Desktop\lab 1 dobosz\Keystroke\Keystroke\Keystroke\bin\Debug\Keystroke.exe.config
+C:\Users\adek1\Desktop\lab 1 dobosz\Keystroke\Keystroke\Keystroke\bin\Debug\Keystroke.exe
+C:\Users\adek1\Desktop\lab 1 dobosz\Keystroke\Keystroke\Keystroke\bin\Debug\Keystroke.pdb
+C:\Users\adek1\Desktop\lab 1 dobosz\Keystroke\Keystroke\Keystroke\bin\Debug\Gma.System.MouseKeyHook.dll
+C:\Users\adek1\Desktop\lab 1 dobosz\Keystroke\Keystroke\Keystroke\obj\Debug\Keystroke.csproj.Up2Date
+C:\Users\adek1\Desktop\lab 1 dobosz\Keystroke\Keystroke\Keystroke\obj\Debug\Keystroke.exe
+C:\Users\adek1\Desktop\lab 1 dobosz\Keystroke\Keystroke\Keystroke\obj\Debug\Keystroke.pdb

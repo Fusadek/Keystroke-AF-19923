@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\adek1\\Desktop\\lab 1 dobosz\\Keystroke\\Keystroke\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{28607826-74FC-4240-833E-499D9FE34D36}|Keystroke\\Keystroke.csproj|c:\\users\\adek1\\desktop\\lab 1 dobosz\\keystroke\\keystroke\\keystroke\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28607826-74FC-4240-833E-499D9FE34D36}|Keystroke\\Keystroke.csproj|solutionrelative:keystroke\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Keystroke||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Keystroke",
+              "DocumentMoniker": "C:\\Users\\adek1\\Desktop\\lab 1 dobosz\\Keystroke\\Keystroke\\Keystroke\\Keystroke.csproj",
+              "RelativeDocumentMoniker": "Keystroke\\Keystroke.csproj",
+              "ToolTip": "C:\\Users\\adek1\\Desktop\\lab 1 dobosz\\Keystroke\\Keystroke\\Keystroke\\Keystroke.csproj",
+              "RelativeToolTip": "Keystroke\\Keystroke.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-13T20:33:59.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\adek1\\Desktop\\lab 1 dobosz\\Keystroke\\Keystroke\\Keystroke\\Program.cs",
+              "RelativeDocumentMoniker": "Keystroke\\Program.cs",
+              "ToolTip": "C:\\Users\\adek1\\Desktop\\lab 1 dobosz\\Keystroke\\Keystroke\\Keystroke\\Program.cs",
+              "RelativeToolTip": "Keystroke\\Program.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAgwGkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T20:26:48.117Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
